@@ -7,5 +7,5 @@ So I've created this tool to preserve your times for chating in Social Medias...
 # For beginners.........
 # Glimps of the code
 
-Click below
-<a href="https://github.com/Arij-arman/Math-tricks-Python/blob/main/main.py"> Source Code</a>
+Click here: <a href="https://github.com/Arij-arman/Math-tricks-Python/blob/main/main.py"> Source Code</a>
+
