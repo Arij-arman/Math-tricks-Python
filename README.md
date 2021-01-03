@@ -1,6 +1,9 @@
 # Math-tricks-Python
 Glimps of the code
 
+# Code shorts
+
+
 import time
 time.sleep(2.2)
 print('<<<<<====================================>>>>>')
